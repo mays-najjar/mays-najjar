@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Eng-Mays Najjar</h1>
+<h1 align="center"></h1>
 <h3 align="center">Problem Solver | Developer </h3>
 
 <h3 align="left">Connect with me:</h3>
